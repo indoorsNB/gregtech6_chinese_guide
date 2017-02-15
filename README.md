@@ -1,3 +1,3 @@
-# My Awesome Book
+# 格雷科技6简介
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+格雷科技6（Gregtech6）是Gregorius Techneticies 制作的格雷科技mod 第六版。它包括大量新方块，一系列工具，新的矿物生成方式，各种能源单位与一种特殊地牢（应当叫为GT避难所更为合适）。
