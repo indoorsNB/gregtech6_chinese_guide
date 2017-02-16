@@ -9,5 +9,5 @@
  * [基础熔炼](chapter1-5.md)
  * [化合物熔炼](chapter1-6.md)
  * [GT式休闲](chapter1-7.md)
-* [中阶-机器与自动化]
+* [中阶-机器与自动化](chapter2.md)
  * []
