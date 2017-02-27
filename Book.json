@@ -1,8 +1,8 @@
 {
     "plugins": [
-        "-lunr",
-        "-search",
-        "search-plus",
+        "-lunr"
+        "-search"
+        "search-plus"
         "gitbook-plugin-betterchinese"
     ]
 }
