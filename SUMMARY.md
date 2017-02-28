@@ -11,5 +11,5 @@
   * [化合物处理](chapter1/chapter1-7.md)
   * [GT式休闲](chapter1/chapter1-8.md)
 * [中阶-机器与自动化](chapter2/chapter2.md)
-  * \[\]
+  * []
 
