@@ -1,6 +1,7 @@
 # Summary
 
 * [引言](README.md)
+
 * [初阶-了解世界](chapter1/chapter1.md)
   * [工具变化](chapter1/chapter1-1.md)
   * [矿物生成](chapter1/chapter1-2.md)
@@ -12,7 +13,6 @@
   * [化合物处理](chapter1/chapter1-8.md)
   * [合金制作](chapter1/chapter1-9.md)
   * [GT式休闲](chapter1/chapter1-10.md)
-  
 * [中阶-机器与自动化](chapter2/chapter2.md)
   * [产能设备简介](chapter2/chapter2-1.md)
   * [机器简介](chapter2/chapter2-2.md)
@@ -24,7 +24,6 @@
   * [正确用电](chapter2/chapter2-8.md)
   * [动态节能技术改造](chapter2/chapter2-9.md)
   * [大型设备-蒸馏塔](chapter2/chapter2-10.md)
-  
 * [附录](addition/addition.md)
   * [存储-流体](addition/addition-1.md)
   * [存储-物品](addition/addition-2.md)
