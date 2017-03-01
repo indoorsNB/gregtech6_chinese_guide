@@ -8,7 +8,8 @@
   * [能量单位](chapter1/chapter1-4.md)
   * [简易矿物处理](chapter1/chapter1-5.md)
   * [基础熔炼](chapter1/chapter1-6.md)
-  * [化合物处理](chapter1/chapter1-7.md)
+  * [多方块-焦炉]
+  * [化合物处理](chapter1/chapter1-7.md)
   * [合金制作]
   * [GT式休闲](chapter1/chapter1-8.md)
 * [中阶-机器与自动化](chapter2/chapter2.md)
@@ -22,4 +23,8 @@
   * [动态节能技术改造]
   * [大型设备-蒸馏塔]
  * [附录]
-  * [
+  * [存储-流体]
+  * [存储-物品]
+  * [管道-流体]
+  * [管道-物品]
+  * [多方块-存储]
