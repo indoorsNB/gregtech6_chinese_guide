@@ -9,7 +9,8 @@
   * [简易矿物处理](chapter1/chapter1-5.md)
   * [基础熔炼](chapter1/chapter1-6.md)
   * [化合物处理](chapter1/chapter1-7.md)
-  * [GT式休闲](chapter1/chapter1-8.md)
+  * [合金制作]
+  * [GT式休闲](chapter1/chapter1-8.md)
 * [中阶-机器与自动化](chapter2/chapter2.md)
   * [产能设备简介]
   * [机器简介]
@@ -20,3 +21,5 @@
   * [正确用电]
   * [动态节能技术改造]
   * [大型设备-蒸馏塔]
+ * [附录]
+  * [
