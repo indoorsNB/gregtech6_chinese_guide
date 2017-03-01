@@ -23,7 +23,7 @@
   * [正确用电](chapter2/chapter2-8.md)
   * [动态节能技术改造](chapter2/chapter2-9.md)
   * [大型设备-蒸馏塔](chapter2/chapter2-10.md)
- * [附录](addition/addition.md)
+* [附录](addition/addition.md)
   * [存储-流体](addition/addition-1.md)
   * [存储-物品](addition/addition-2.md)
   * [管道-流体](addition/addition-3.md)
