@@ -1,5 +1,6 @@
 {
-    "styles": {
-        "pdf": "assets/yahei.css"
-    }
+  "plugins": [
+    "gitbook-plugin-yahei",
+    "plugin-unicodecss" 
+      ]
 }
