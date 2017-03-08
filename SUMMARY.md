@@ -30,4 +30,6 @@
   * [管道-流体](addition/addition-3.md)
   * [管道-物品](addition/addition-4.md)
   * [多方块-存储](addition/addition-5.md)
+  * [特殊设备-GT工作台](addition/addition-6.md)
+  * [特殊设备-那啥我忘了叫啥](addition/addition-7.md)
 
