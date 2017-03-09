@@ -14,7 +14,8 @@
         "plugins": [
             "yahei",
             "katex",
-            "-search"
+            "-search",
+            "fanjian"
         ]
     },
     "pdf": {
