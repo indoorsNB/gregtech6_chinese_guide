@@ -64,7 +64,7 @@
   OXXXO        OOOOO        OOOOO
   OOOOO        OOOOO        OOOOO
   ```
-####万能铲(1.000Units)|剑（2。000Units)|锉(1.500
+####万能铲(1.000Units)|剑（2.000Units)|锉(1.500)
 
   ```
   OOXOO        OOXOO        OXXXO
@@ -73,13 +73,14 @@
   OXXXO        OXXXO        OOXOO
   OOOOO        OXXXO        OOXOO
   ```
-####
+####镐(3.000Units)|锯(2.000Units)|箭(0.250Units)
 
   ```
-  
-  
-  
-  
+  OOOOO        OOOOO        OOOOO
+  OXXXO        XXXXX        OOXOO
+  XOOOX        XXXXX        OOXOO
+  OOOOO        OOOOO        OXXXO
+  OOOOO        OOOOO        OOOOO
   ```
 
 
