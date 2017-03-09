@@ -1,5 +1,6 @@
 {
     "title": "格雷科技6中文指南",
+    "gitbook": "3.x.x",
     "description": "格雷科技6(GT6)模组的中文指南",
     "language": "zh",
     "structure": {
@@ -20,13 +21,13 @@
     },
     "pdf": {
         "pageNumbers": true,
-        "fontSize": 18,
+        "fontSize": 14,
         "paperSize": "a4",
         "margin": {
-            "right": 30,
-            "left": 30,
-            "top": 30,
-            "bottom": 50
+            "right": 62,
+            "left": 62,
+            "top": 36,
+            "bottom": 36
         }
     }
 }
