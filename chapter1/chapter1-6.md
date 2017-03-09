@@ -43,10 +43,11 @@
 
 ### 模具制作
 
-既然建好了坩埚，那么就应该来雕刻模具了，这些坑爹的模具最好和坩埚使用相同的材质（不然boomshakalaka）。雕刻使用凿子进行右键，手残的要小心，没法撤回。所有工具模具只能制作粗糙的模具，需要打磨。模具小耳朵可以设置模具自动输入，其他位置都是设置红石控制。  
+既然建好了坩埚，那么就应该来雕刻模具了，这些坑爹的模具最好和坩埚使用相同的材质（不然boomshakalaka）。雕刻使用凿子进行右键，手残的要小心，没法撤回。所有工具模具只能制作粗糙的工具，需要打磨。但是板和其他零件类不需要打磨。模具小耳朵可以设置模具自动输入，其他位置都是设置红石控制。  
 `X代表被凿过，O代表没被凿过. 1Unit=1个锭`
 
 ####锭(1.000Units)|小块(0.250Units)|板(1.000Units)
+
   ```
   XXXOO        XXOOO        XXXXX
   XXXOO        XXOOO        XXXXX
@@ -55,6 +56,7 @@
   XXXOO        OOOOO        XXXXX
   ```
 ####小块板(0.111Units)|螺栓(0.125Units)|杆(0.500Units)
+
   ```
   OOOOO        XXOOO        OOOOO
   OXXXO        OOOOO        OOOOO
@@ -62,14 +64,25 @@
   OXXXO        OOOOO        OOOOO
   OOOOO        OOOOO        OOOOO
   ```
-####万能铲(1.000Units)
+####万能铲(1.000Units)|剑（2。000Units)|锉(1.500
+
   ```
-  123
+  OOXOO        OOXOO        OXXXO
+  OXXXO        OXXXO        OXXXO
+  OXXOO        OXXXO        OXXXO
+  OXXXO        OXXXO        OOXOO
+  OOOOO        OXXXO        OOXOO
+  ```
+####
+
+  ```
   
   
   
   
   ```
+
+
 
 PS:金属坩埚要扳手，陶瓷扳手要凿子  
 PPS:模具需要用凿子来雕刻
