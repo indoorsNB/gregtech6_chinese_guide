@@ -62,8 +62,14 @@
   OXXXO        OOOOO        OOOOO
   OOOOO        OOOOO        OOOOO
   ```
-
-
+####万能铲(1.000Units)
+  ```
+  123
+  
+  
+  
+  
+  ```
 
 PS:金属坩埚要扳手，陶瓷扳手要凿子  
 PPS:模具需要用凿子来雕刻
