@@ -91,14 +91,14 @@
   OXXXO        XXXXX        OOXOO
   XOXOX        OXOXO        OOXOO
   ```
-####环(0.250Units)|斧(3.000Units)
+####环(0.250Units)|斧(3.000Units)|
   
   ```
-  OOOOO        
-  OXXXO        
-  OXOXO        
-  OXXXO        
-  OOOOO        
+  OOOOO        OOOOO
+  OXXXO        OXXXO
+  OXOXO        OXXXO
+  OXXXO        OXOOO
+  OOOOO        OOOOO
   ```
   
 PS:金属坩埚要扳手，陶瓷扳手要凿子  
