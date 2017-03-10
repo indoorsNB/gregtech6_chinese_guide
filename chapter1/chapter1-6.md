@@ -91,16 +91,42 @@
   OXXXO        XXXXX        OOXOO
   XOXOX        OXOXO        OOXOO
   ```
-####环(0.250Units)|斧(3.000Units)|
+####环(0.250Units)|斧(3.000Units)|长杆(1.000Units)
   
   ```
+  OOOOO        OOOOO        XOOOO
+  OXXXO        OXXXO        OXOOO
+  OXOXO        OXXXO        OOXOO
+  OXXXO        OXOOO        OOOXO
+  OOOOO        OOOOO        OOOOX
+  ```
+####铲(1.000Units)|锤(6.000Units)|犁(6.000Units)
+
+  ```
+  OOXOO        XXXOO        XXXXX
+  OXXXO        XXXOO        XXXXX
+  OXXXO        XOXOO        XXXXX
+  OXXXO        XXXOO        XXXXX
+  OOOOO        XXXOO        OOXOO
+  ```
+####外壳(0.500Units)|螺丝刀(0.500Units)|锄(2.000Units)
+
+  ```
+  XXXOX        OOOOO        OOOOO
+  XXXOX        OOXOO        OOXXO
+  XXXOX        OOXOO        OXXXO
+  OOOOX        OOXOO        OOOOO
+  XXXOO        OOXOO        OOOOO
+  ```
+####镰刀(3.000Units)|双刃斧(5.000Units)
+
+  ```
   OOOOO        OOOOO
-  OXXXO        OXXXO
-  OXOXO        OXXXO
-  OXXXO        OXOOO
+  OXXXX        XXXXX
+  XXXXX        XXXXX
+  OOOOO        XOOOX
   OOOOO        OOOOO
   ```
-  
 PS:金属坩埚要扳手，陶瓷扳手要凿子  
 PPS:模具需要用凿子来雕刻
 PPPS:自动化在后面
