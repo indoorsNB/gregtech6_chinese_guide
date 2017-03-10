@@ -82,9 +82,20 @@
   OOOOO        OOOOO        OXXXO
   OOOOO        OOOOO        OOOOO
   ```
+####齿轮(4.000Units)|小型齿轮(1.000Units)|凿子(1.500Units)
 
+  ```
+  XOXOX        OXOXO        OXXXO
+  OXXXO        XXXXX        OOXOO
+  XXOXX        OXOXO        OOXOO
+  OXXXO        XXXXX        OOXOO
+  XOXOX        OXOXO        OOXOO
+  ```
 
+####
+  
 
+  
 PS:金属坩埚要扳手，陶瓷扳手要凿子  
 PPS:模具需要用凿子来雕刻
 PPPS:自动化在后面
