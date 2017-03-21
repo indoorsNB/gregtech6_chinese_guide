@@ -3,7 +3,7 @@
 * [引言](README.md)
 * [初阶-了解世界](chapter1/chapter1.md)
   * [格雷工具](chapter1/chapter1-1.md)
-  * [矿物生成](chapter1/chapter1-2.md)
+  * [自然生成](chapter1/chapter1-2.md)
   * [格雷地下避难所](chapter1/chapter1-3.md)
   * [单位](chapter1/chapter1-4.md)
   * [简易矿物处理](chapter1/chapter1-5.md)
