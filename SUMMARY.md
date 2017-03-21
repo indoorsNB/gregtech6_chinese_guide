@@ -5,7 +5,7 @@
   * [格雷工具](chapter1/chapter1-1.md)
   * [矿物生成](chapter1/chapter1-2.md)
   * [格雷地下避难所](chapter1/chapter1-3.md)
-  * [能量单位](chapter1/chapter1-4.md)
+  * [单位](chapter1/chapter1-4.md)
   * [简易矿物处理](chapter1/chapter1-5.md)
   * [基础熔炼](chapter1/chapter1-6.md)
   * [点火工具](chapter1/chapter1-7.md)
@@ -33,3 +33,4 @@
   * [特殊设备-GT工作台](addition/addition-6.md)
   * [特殊设备-那啥我忘了叫啥](addition/addition-7.md)
 * [番外](ingame/ingame.md)
+
