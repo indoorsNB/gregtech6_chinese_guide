@@ -5,7 +5,7 @@
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">GregTech6中文指南</span> 由 <a xmlns:cc="http://creativecommons.org/ns#" href="https://www.gitbook.com/book/indoorsnb/gregtech6_chinese_guide" property="cc:attributionName" rel="cc:attributionURL">indoorsnb和檩萘</a> 创作，采用 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">知识共享 署名-非商业性使用-相同方式共享 4.0 国际 许可协议</a>进行许可。<br />基于<a xmlns:dct="http://www.mcbbs.net/forum.php?mod=viewthread&tid=673246&page=1#pid11508297" rel="dct:source">http://www.mcbbs.net/forum.php?mod=viewthread&tid=673246&page=1#pid11508297</a>上的作品创作。
 
-###即将加入
+### 即将加入
 - 更多图片
 - 高阶-无中生有的章节名
 - 完成中阶的全部文字描述
@@ -13,5 +13,7 @@
 - 加入识别码和词典
 - 修复部分初阶小问题
 
+# 警告!⚠️
+很多教程依靠本人记忆制作，靠谱程度只能靠玄学
 
 
