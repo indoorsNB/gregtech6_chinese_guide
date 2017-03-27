@@ -33,5 +33,6 @@
   * [特殊设备-GT工作台](addition/addition-6.md)
   * [特殊设备-那啥我忘了叫啥](addition/addition-7.md)
   * [矿物生成列表](addition/addition-8.md)
+  * [坩埚周边熔点列表](addition/addition-9.md)
 * [日常](ingame/ingame.md)
 
