@@ -2,6 +2,7 @@
 
 * [引言](README.md)
 * [初阶-了解世界](chapter1/chapter1.md)
+  * [正确阅读Tooltips](chapter1/chapter1-12.md)
   * [格雷工具](chapter1/chapter1-1.md)
   * [自然生成](chapter1/chapter1-2.md)
   * [格雷地下避难所](chapter1/chapter1-3.md)
