@@ -18,7 +18,6 @@
   * [产能设备简介](chapter2/chapter2-1.md)
   * [机器简介](chapter2/chapter2-2.md)
   * [面板筒介](chapter2/chapter2-3.md)
-  * [传感器简介](chapter2/chapter2-4.md)
   * [覆盖板简介](chapter2/chapter2-5.md)
   * [生产线组合](chapter2/chapter2-6.md)
   * [电力时代](chapter2/chapter2-7.md)
