@@ -8,7 +8,7 @@
   * [格雷地下避难所](chapter1/chapter1-3.md)
   * [单位](chapter1/chapter1-4.md)
   * [简易矿物处理](chapter1/chapter1-5.md)
-  * [手动机器](chapter1/chapter1-12.md)
+  * [手动机器](chapter1/chapter1-13.md)
   * [基础熔炼](chapter1/chapter1-6.md)
   * [点火工具](chapter1/chapter1-7.md)
   * [多方块-焦炉](chapter1/chapter1-8.md)
