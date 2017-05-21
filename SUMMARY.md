@@ -14,6 +14,7 @@
   * [多方块-焦炉](chapter1/chapter1-8.md)
   * [化合物处理](chapter1/chapter1-9.md)
   * [合金制作](chapter1/chapter1-10.md)
+  * [GT-Forestry](chapter1/chapter1-14.md)
   * [GT式休闲](chapter1/chapter1-11.md)
 * [中阶-机器与自动化](chapter2/chapter2.md)
   * [产能设备简介](chapter2/chapter2-1.md)
