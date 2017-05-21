@@ -18,6 +18,7 @@
 * [中阶-机器与自动化](chapter2/chapter2.md)
   * [产能设备简介](chapter2/chapter2-1.md)
   * [机器简介](chapter2/chapter2-2.md)
+  * [特殊机器／设备](chapter2/chapter2-11.md)
   * [面板筒介](chapter2/chapter2-3.md)
   * [覆盖板简介](chapter2/chapter2-5.md)
   * [生产线组合](chapter2/chapter2-6.md)
