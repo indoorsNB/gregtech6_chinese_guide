@@ -64,13 +64,13 @@
 #### Andesite    安山岩
 
 * Gold    金矿
-* Bromargyrite    溴银矿    @15
+* Bromargyrite[    ](https://www.gitbook.com/book/indoorsnb/gregtech6_chinese_guide/details)溴银矿    @15
 
 #### Diorite    闪长岩
 
-* Cobaltite
-* Garnierite
-* Pentlandite
+* Cobaltite    辉砷钴矿
+* Garnierite    硅镁镍矿
+* Pentlandite    镍黄铁
 
 #### Granite\(1.8 Vanilla\)    花岗岩（1.8原版）
 
@@ -82,11 +82,11 @@
 
 * Sphalerite    闪锌矿    @5
 * Pyrite\\(displayed as Gold ore\\)
-* Chalcopyrite @5
-* Kesterite
-* Casseterite
-* Stannite
-* Pyrite @5
+* Chalcopyrite    黄铜矿 @5
+* Kesterite    锌黄锡矿
+* Casseterite    锡石矿
+* Stannite    黄锡矿
+* Pyrite    黄铁矿 @5
 
 #### Kimberlite    金伯利岩
 
