@@ -32,13 +32,13 @@ Blue Schist    蓝色片岩
 * Spessartine    锰铝榴石矿
 * Pyrope    镁铝榴石矿
 
-Red Granite    红色花岗岩
+#### Red Granite    红色花岗岩
 
 * Tantalite    钽铁矿
 * Uraninite    晶质铀矿    @12,5
 * Pitchblende    沥青铀矿    @12,5
 
-Black Granite    黑色花岗岩
+#### Black Granite    黑色花岗岩
 
 * Grossular    钙铝榴石矿
 * Olivine    橄榄石矿
@@ -49,7 +49,7 @@ Black Granite    黑色花岗岩
 * Sperrylite    砷铂矿    @5
 * Emerald    绿宝石    @40,ExtremeHills
 
-Basalt    玄武岩
+#### Basalt    玄武岩
 
 * Uvarovite    钙铬榴石矿    @ExtremeHills
 * Chromite    铬铁矿    @59,40,64
@@ -61,123 +61,75 @@ Basalt    玄武岩
 * Lepidolite    锂云母矿
 * Olivine    橄榄石矿
 
-Andesite    安山岩
+#### Andesite    安山岩
 
-```
-Gold    金矿
+* Gold    金矿
+* Bromargyrite    溴银矿    @15
 
-Bromargyrite    溴银矿    @15
-```
+#### Diorite    闪长岩
 
-Diorite    闪长岩
+* Cobaltite
+* Garnierite
+* Pentlandite
 
-```
-Cobaltite
+#### Granite\(1.8 Vanilla\)    花岗岩（1.8原版）
 
-Garnierite
+* Apatite    磷灰石矿    @15,35,60
+* Phosphorite    磷灰石矿
+* Phosphate    磷酸盐矿    @35
 
-Pentlandite
-```
+#### Marble    大理石
 
-Granite\(1.8 Vanilla\)    花岗岩（1.8原版）
+* Sphalerite    闪锌矿    @5
+* Pyrite\\(displayed as Gold ore\\)
+* Chalcopyrite @5
+* Kesterite
+* Casseterite
+* Stannite
+* Pyrite @5
 
-```
-Apatite    磷灰石矿    @15,35,60
+#### Kimberlite    金伯利岩
 
-Phosphorite    磷灰石矿
+* Diamond    钻石矿    @5
+* Green Sappire @ExtremeHills
+* Spinel @ExtremeHills
 
-Phosphate    磷酸盐矿    @35
-```
+#### Komatiite    科马提岩
 
-Marble    大理石
+* Redstone    红石矿    @27,5
+* Cinnabar
+* Magnesite
+* Pyrite\\(displayed as Gold ore\\)
+* Cassiterite
 
-```
-Sphalerite    闪锌矿    @5
+#### Quartzite    石英岩
 
-Pyrite\(displayed as Gold ore\)
+* Certus Quartz
+* Barite
 
-Chalcopyrite @5
+#### LimeStone    石灰石
 
-Kesterite
+* Arsenopyrite @5
+* Gold    金矿
+* Stibnite
+* Galena @5
+* Powelleite
+* Malachite
+* Brown Limonite    褐铁矿
+* Yellow Limonite    黄色褐铁矿
+* Molybdenite
+* Tetrahedrite
+* Copper    铜矿
+* Pyrite @29,5
+* Huebnerite @5
+* Wolframite @5
+* Ferberite @5
+* Scheelite @5
 
-Casseterite
+## 两种岩层之间的矿物（一般沿着交界处分布）
 
-Stannite
+* Sodalite + Lazurite\(Little\) + Lapis + Gold\(Little\): Black Granite & Marble
+* Diamond: Granite & Basalt
 
-Pyrite @5
-```
 
-Kimberlite    金伯利岩
-
-```
-Diamond    钻石矿    @5
-
-Green Sappire @ExtremeHills
-
-Spinel @ExtremeHills
-```
-
-Komatiite    科马提岩
-
-```
-Redstone    红石矿    @27,5
-
-Cinnabar
-
-Magnesite
-
-Pyrite\(displayed as Gold ore\)
-
-Cassiterite
-```
-
-Quartzite    石英岩
-
-```
-Certus Quartz
-
-Barite
-```
-
-LimeStone    石灰石
-
-```
-Arsenopyrite @5
-
-Gold    金矿
-
-Stibnite
-
-Galena @5
-
-Powelleite
-
-Malachite
-
-Brown Limonite    褐铁矿
-
-Yellow Limonite    黄色褐铁矿
-
-Molybdenite
-
-Tetrahedrite
-
-Copper    铜矿
-
-Pyrite @29,5
-
-Huebnerite @5
-
-Wolframite @5
-
-Ferberite @5
-
-Scheelite @5
-```
-
-两种岩层之间的矿物（一般沿着交界处分布）
-
-Sodalite + Lazurite\(Little\) + Lapis + Gold\(Little\): Black Granite & Marble
-
-Diamond: Granite & Basalt
 
