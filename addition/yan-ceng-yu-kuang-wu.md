@@ -20,31 +20,25 @@
 
 Stone	石头
 
-	Hematite	赤铁矿
-
-	Teslatite	蓝石矿
-
-	Stibnite	辉锑矿
+* 	Hematite	赤铁矿
+* 	Teslatite	蓝石矿
+* 	Stibnite	辉锑矿
 
 Green Schist	绿片岩
 
-	Andradite	钙铁榴石矿
-
-	Almandine	铁铝榴石矿
+* 	Andradite	钙铁榴石矿
+* 	Almandine	铁铝榴石矿
 
 Blue Schist	蓝色片岩
 
-	Spessartine	锰铝榴石矿
-
-	Pyrope	镁铝榴石矿
+* 	Spessartine	锰铝榴石矿
+* 	Pyrope	镁铝榴石矿
 
 Red Granite	红色花岗岩
 
-	Tantalite	钽铁矿
-
-	Uraninite	晶质铀矿	@12,5
-
-	Pitchblende	沥青铀矿	@12,5
+* 	Tantalite	钽铁矿
+* 	Uraninite	晶质铀矿	@12,5
+* 	Pitchblende	沥青铀矿	@12,5
 
 Black Granite	黑色花岗岩
 
