@@ -1,6 +1,6 @@
 我是禄存，这部分以后会在这里更新哦
 
-感谢IC论坛（industrial-craft.net）的exylic提供大部分信息
+感谢IC论坛（industrial-craft.net）的exylic提供[大部分信息](https://forum.industrial-craft.net/thread/7156-gregtech-6-1-7-10-website-patreon-info-support-and-suggestions/?postID=212564#post212564)
 
 @=at，表示这些位置有该矿物，但只有这些位置才有该矿物
 
