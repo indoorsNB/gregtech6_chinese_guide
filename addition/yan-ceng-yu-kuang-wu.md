@@ -97,39 +97,41 @@
 #### Komatiite    科马提岩
 
 * Redstone    红石矿    @27,5
-* Cinnabar
-* Magnesite
-* Pyrite\\(displayed as Gold ore\\)
-* Cassiterite
+* Cinnabar    朱砂矿
+* Magnesite    菱镁矿
+* Pyrite\\(displayed as Gold ore\\)    黄铁矿（英文是“金矿”）
+* Cassiterite    锡石矿
 
 #### Quartzite    石英岩
 
-* Certus Quartz
-* Barite
+* Certus Quartz    赛特斯石英矿
+* Barite    重晶石矿
 
 #### LimeStone    石灰石
 
-* Arsenopyrite @5
+* Arsenopyrite    砷黄铁矿 @5
 * Gold    金矿
-* Stibnite
-* Galena @5
+* Stibnite    辉锑矿
+* Galena    方铅矿 @5
 * Powelleite
-* Malachite
+* Malachite    孔雀石矿
 * Brown Limonite    褐铁矿
 * Yellow Limonite    黄色褐铁矿
-* Molybdenite
-* Tetrahedrite
+* Molybdenite    钼矿
+* Tetrahedrite    黝铜矿
 * Copper    铜矿
-* Pyrite @29,5
-* Huebnerite @5
-* Wolframite @5
-* Ferberite @5
-* Scheelite @5
+* Pyrite    黄铁矿 @29,5
+* Huebnerite    钨锰矿 @5
+* Wolframite    钨锰铁矿 @5
+* Ferberite    钨铁矿 @5
+* Scheelite    白钨矿 @5
 
 ## 两种岩层之间的矿物（一般沿着交界处分布）
 
 * Sodalite + Lazurite\(Little\) + Lapis + Gold\(Little\): Black Granite & Marble
+* 方钠石矿+天青石（少）+青金石+金矿（少）：黑花岗岩和大理石
 * Diamond: Granite & Basalt
+* 钻石：花岗岩和玄武岩
 
 
 
