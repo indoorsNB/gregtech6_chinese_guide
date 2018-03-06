@@ -1,3 +1,5 @@
+我是禄存，这部分以后会在这里更新哦
+
 感谢IC论坛（industrial-craft.net）的exylic提供大部分信息
 
 @=at，表示这些位置有该矿物，但只有这些位置才有该矿物
@@ -12,171 +14,187 @@
 
 善用Ctrl+F搜索
 
-推荐使用notepad++、sublime text等高级编辑器打开
 
 
+## 岩层中的矿物
 
-岩层中的矿物
+Stone    石头
 
-Stone	石头
+* Hematite    赤铁矿
+* Teslatite    蓝石矿
+* Stibnite    辉锑矿
 
-* 	Hematite	赤铁矿
-* 	Teslatite	蓝石矿
-* 	Stibnite	辉锑矿
+Green Schist    绿片岩
 
-Green Schist	绿片岩
+* Andradite    钙铁榴石矿
+* Almandine    铁铝榴石矿
 
-* 	Andradite	钙铁榴石矿
-* 	Almandine	铁铝榴石矿
+Blue Schist    蓝色片岩
 
-Blue Schist	蓝色片岩
+* Spessartine    锰铝榴石矿
+* Pyrope    镁铝榴石矿
 
-* 	Spessartine	锰铝榴石矿
-* 	Pyrope	镁铝榴石矿
+Red Granite    红色花岗岩
 
-Red Granite	红色花岗岩
+* Tantalite    钽铁矿
+* Uraninite    晶质铀矿    @12,5
+* Pitchblende    沥青铀矿    @12,5
 
-* 	Tantalite	钽铁矿
-* 	Uraninite	晶质铀矿	@12,5
-* 	Pitchblende	沥青铀矿	@12,5
+Black Granite    黑色花岗岩
 
-Black Granite	黑色花岗岩
+```
+Grossular    钙铝榴石矿
 
-	Grossular	钙铝榴石矿
+Olivine    橄榄石矿
 
-	Olivine	橄榄石矿
+Pyrolusite    软锰矿
 
-	Pyrolusite	软锰矿
+Bastnasite    氟碳铈矿
 
-	Bastnasite	氟碳铈矿
+Bixbite    红绿柱石矿
 
-	Bixbite	红绿柱石矿
+Sheldonite    硫砷铂矿    @5
 
-	Sheldonite	硫砷铂矿	@5
+Sperrylite    砷铂矿    @5
 
-	Sperrylite	砷铂矿	@5
+Emerald    绿宝石    @40,ExtremeHills
+```
 
-	Emerald	绿宝石	@40,ExtremeHills
+Basalt    玄武岩
 
-Basalt	玄武岩
+```
+Uvarovite    钙铬榴石矿    @ExtremeHills
 
-	Uvarovite	钙铬榴石矿	@ExtremeHills
+Chromite    铬铁矿    @59,40,64
 
-	Chromite	铬铁矿	@59,40,64
+Grossular    钙铝榴石矿    @ExtremeHills
 
-	Grossular	钙铝榴石矿	@ExtremeHills
+Pyrolusite    软锰矿
 
-	Pyrolusite	软锰矿
+Ilmenite    钛铁矿
 
-	Ilmenite	钛铁矿
+Rutile    金红石矿
 
-	Rutile	金红石矿
+Spodumene    锂辉矿    @59
 
-	Spodumene	锂辉矿	@59
+Lepidolite    锂云母矿
 
-	Lepidolite	锂云母矿
+Olivine    橄榄石矿
+```
 
-	Olivine	橄榄石矿
+Andesite    安山岩
 
-Andesite	安山岩
+```
+Gold    金矿
 
-	Gold	金矿
+Bromargyrite    溴银矿    @15
+```
 
-	Bromargyrite	溴银矿	@15
+Diorite    闪长岩
 
-Diorite	闪长岩
+```
+Cobaltite
 
-	Cobaltite
+Garnierite
 
-	Garnierite
+Pentlandite
+```
 
-	Pentlandite
+Granite\(1.8 Vanilla\)    花岗岩（1.8原版）
 
-Granite\(1.8 Vanilla\)	花岗岩（1.8原版）
+```
+Apatite    磷灰石矿    @15,35,60
 
-	Apatite	磷灰石矿	@15,35,60
+Phosphorite    磷灰石矿
 
-	Phosphorite	磷灰石矿
+Phosphate    磷酸盐矿    @35
+```
 
-	Phosphate	磷酸盐矿	@35
+Marble    大理石
 
-Marble	大理石
+```
+Sphalerite    闪锌矿    @5
 
-	Sphalerite	闪锌矿	@5
+Pyrite\(displayed as Gold ore\)
 
-	Pyrite\(displayed as Gold ore\)
+Chalcopyrite @5
 
-	Chalcopyrite @5
+Kesterite
 
-	Kesterite
+Casseterite
 
-	Casseterite
+Stannite
 
-	Stannite
+Pyrite @5
+```
 
-	Pyrite @5
+Kimberlite    金伯利岩
 
-Kimberlite	金伯利岩
+```
+Diamond    钻石矿    @5
 
-	Diamond	钻石矿	@5
+Green Sappire @ExtremeHills
 
-	Green Sappire @ExtremeHills
+Spinel @ExtremeHills
+```
 
-	Spinel @ExtremeHills
+Komatiite    科马提岩
 
-Komatiite	科马提岩
+```
+Redstone    红石矿    @27,5
 
-	Redstone	红石矿	@27,5
+Cinnabar
 
-	Cinnabar
+Magnesite
 
-	Magnesite
+Pyrite\(displayed as Gold ore\)
 
-	Pyrite\(displayed as Gold ore\)
+Cassiterite
+```
 
-	Cassiterite
+Quartzite    石英岩
 
-Quartzite	石英岩
+```
+Certus Quartz
 
-	Certus Quartz
+Barite
+```
 
-	Barite
+LimeStone    石灰石
 
-LimeStone	石灰石
+```
+Arsenopyrite @5
 
-	Arsenopyrite @5
+Gold    金矿
 
-	Gold	金矿
+Stibnite
 
-	Stibnite
+Galena @5
 
-	Galena @5
+Powelleite
 
-	Powelleite
+Malachite
 
-	Malachite
+Brown Limonite    褐铁矿
 
-	Brown Limonite	褐铁矿
+Yellow Limonite    黄色褐铁矿
 
-	Yellow Limonite	黄色褐铁矿
+Molybdenite
 
-	Molybdenite
+Tetrahedrite
 
-	Tetrahedrite
+Copper    铜矿
 
-	Copper	铜矿
+Pyrite @29,5
 
-	Pyrite @29,5
+Huebnerite @5
 
-	Huebnerite @5
+Wolframite @5
 
-	Wolframite @5
+Ferberite @5
 
-	Ferberite @5
-
-	Scheelite @5
-
-
+Scheelite @5
+```
 
 两种岩层之间的矿物（一般沿着交界处分布）
 
