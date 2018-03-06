@@ -14,8 +14,6 @@
 
 善用Ctrl+F搜索
 
-
-
 ## 岩层中的矿物
 
 Stone    石头
@@ -42,45 +40,26 @@ Red Granite    红色花岗岩
 
 Black Granite    黑色花岗岩
 
-```
-Grossular    钙铝榴石矿
-
-Olivine    橄榄石矿
-
-Pyrolusite    软锰矿
-
-Bastnasite    氟碳铈矿
-
-Bixbite    红绿柱石矿
-
-Sheldonite    硫砷铂矿    @5
-
-Sperrylite    砷铂矿    @5
-
-Emerald    绿宝石    @40,ExtremeHills
-```
+* Grossular    钙铝榴石矿
+* Olivine    橄榄石矿
+* Pyrolusite    软锰矿
+* Bastnasite    氟碳铈矿
+* Bixbite    红绿柱石矿
+* Sheldonite    硫砷铂矿    @5
+* Sperrylite    砷铂矿    @5
+* Emerald    绿宝石    @40,ExtremeHills
 
 Basalt    玄武岩
 
-```
-Uvarovite    钙铬榴石矿    @ExtremeHills
-
-Chromite    铬铁矿    @59,40,64
-
-Grossular    钙铝榴石矿    @ExtremeHills
-
-Pyrolusite    软锰矿
-
-Ilmenite    钛铁矿
-
-Rutile    金红石矿
-
-Spodumene    锂辉矿    @59
-
-Lepidolite    锂云母矿
-
-Olivine    橄榄石矿
-```
+* Uvarovite    钙铬榴石矿    @ExtremeHills
+* Chromite    铬铁矿    @59,40,64
+* Grossular    钙铝榴石矿    @ExtremeHills
+* Pyrolusite    软锰矿
+* Ilmenite    钛铁矿
+* Rutile    金红石矿
+* Spodumene    锂辉矿    @59
+* Lepidolite    锂云母矿
+* Olivine    橄榄石矿
 
 Andesite    安山岩
 
