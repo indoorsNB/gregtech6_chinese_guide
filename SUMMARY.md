@@ -35,7 +35,7 @@
   * [管道-流体](addition/addition-3.md)
   * [管道-物品](addition/addition-4.md)
   * [多方块-存储](addition/addition-5.md)
+  * [岩层与矿物](addition/addition-10.md)
   * [矿物生成列表](addition/addition-8.md)
-  * [岩层与矿物](addition/yan-ceng-yu-kuang-wu.md)
   * [坩埚周边熔点列表](addition/addition-9.md)
 
