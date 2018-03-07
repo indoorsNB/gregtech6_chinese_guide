@@ -21,6 +21,7 @@
   * [机器简介](chapter2/chapter2-2.md)
   * [特殊机器](chapter2/chapter2-11.md)
   * [化学工业](chapter2/chapter2-12.md)
+  * [坩埚进阶](chapter2/chapter2-13.md)
   * [面板筒介](chapter2/chapter2-3.md)
   * [覆盖板简介](chapter2/chapter2-5.md)
   * [生产线组合](chapter2/chapter2-6.md)
