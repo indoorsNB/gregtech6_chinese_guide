@@ -130,8 +130,8 @@
 
 ## 两种岩层之间的矿物（一般沿着交界处分布）
 
-* Sodalite + Lazurite\(Little\) + Lapis + Gold\(Little\): Black Granite & Marble
-* 方钠石矿+天青石（少）+青金石+金矿（少）：黑花岗岩和大理石
+* Sodalite + Lazurite\(Little\) + Lapis + Pyrite\(Little\): Black Granite & Marble
+* 方钠石矿+天青石（少）+青金石+黄铁矿（少）：黑花岗岩和大理石
 * Diamond: Granite & Basalt
 * 钻石：花岗岩和玄武岩
 
