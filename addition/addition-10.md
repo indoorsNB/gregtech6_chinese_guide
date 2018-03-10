@@ -112,7 +112,6 @@
 #### LimeStone    石灰石
 
 * Arsenopyrite    砷黄铁矿 @5
-* Gold    金矿
 * Stibnite    辉锑矿
 * Galena    方铅矿 @5
 * Powelleite
